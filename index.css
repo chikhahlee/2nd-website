@@ -1,6 +1,6 @@
 * {
-    font-family: monospace;
-    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15.5px;
 }
 /* title */
 .title {
@@ -34,10 +34,11 @@
     font-family: 'Times New Roman', Times, serif
 }
 .num1, .num2, .num3 {
+    font-family: monospace;
     color: indianred;
-    font-size: xx-large;
+    font-size: x-large;
 }
-.text1, .text2, .text3 {
+.text1, .text2, .text3 {    
     color: black;
     font-size: xx-small;
 }
